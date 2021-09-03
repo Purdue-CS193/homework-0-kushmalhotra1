@@ -1,3 +1,12 @@
+# Kush Malhotra's First CS193 Homework
+
+
+### Favorite things about CS 193
+- Learning the ins and outs of coding at Purdue
+- Meeting other people who share the same major as me
+- Surrounded by older students who are further along a similar track as me
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
